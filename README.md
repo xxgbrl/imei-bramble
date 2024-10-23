@@ -4,9 +4,10 @@ syarat dan bahan:
 1. hp google pixel up to 4xl (android 15 blm nyoba, mungkin cara nya sama)
 2. kabel usb type c
 3. pc/laptop
-4. install semua driver (https://drive.google.com/drive/folders/1E5HruLM2cAV7YXqM41zIazjluLjaabhX)
-5. file .qcn sesuai tipe hp (https://www.ahmadservicecenter.com/2023/11/koleksi-file-qcn-google-pixel-fix.html?m=1)
-6. rasa sabar
+4. file bahan (https://drive.google.com/drive/folders/1E5HruLM2cAV7YXqM41zIazjluLjaabhX)
+5. install semua driver
+6. file .qcn sesuai tipe hp (https://www.ahmadservicecenter.com/2023/11/koleksi-file-qcn-google-pixel-fix.html?m=1)
+7. rasa sabar
 
 untuk bugjaeger
 1. hp lain
