@@ -7,7 +7,6 @@ syarat dan bahan:
 4. install semua driver (https://drive.google.com/drive/folders/1E5HruLM2cAV7YXqM41zIazjluLjaabhX)
 5. file .qcn sesuai tipe hp (https://www.ahmadservicecenter.com/2023/11/koleksi-file-qcn-google-pixel-fix.html?m=1)
 6. rasa sabar
-note: yg file .qcn ga ada bisa cari sendiri di google atau youtube, keyword _(tipe hp) file qcn_
 
 untuk bugjaeger
 1. hp lain
@@ -26,7 +25,6 @@ cara ubl
 8. pastikan device terdeteksi
 9. ketik _adb reboot bootloader_
 10. ketik _fastboot flashing unlock_
-note: data pasti hilang jadi backup/pindah dulu semua data di hp sebelum di unlock
 
 cara root
 1. download rom google pixel sesuai tipe hp
@@ -76,3 +74,7 @@ masuk mode diag (ada di bahan)
 5. klik start
 6. tunggu selesai
 7. reboot
+
+note:
+1. yg file .qcn ga ada bisa cari sendiri di google atau youtube, keyword _(tipe hp) file qcn_
+2. data pasti hilang jadi backup/pindah dulu semua data di hp sebelum di unlock 
